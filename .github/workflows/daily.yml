@@ -1,5 +1,6 @@
 # Copyright (c) Microsoft Corporation.
 # Licensed under the MIT license.
+# [![PowerShell Daily](https://github.com/eckeman/switsys/actions/workflows/daily.yml/badge.svg?branch=master)](https://github.com/eckeman/switsys/actions/workflows/daily.yml)
 
 name: PowerShell Daily
 on:
